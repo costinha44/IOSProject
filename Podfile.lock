@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - Unirest (1.1.4)
+
+DEPENDENCIES:
+  - SDWebImage (~> 4.0)
+  - Unirest (~> 1.1.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SDWebImage
+    - Unirest
+
+SPEC CHECKSUMS:
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  Unirest: 5e4d93eaf32463bf619a4ecd3bbc8c32acf21eac
+
+PODFILE CHECKSUM: 7f8a4e07995414d1a4a2e4217408b1e2e451117b
+
+COCOAPODS: 1.5.0
